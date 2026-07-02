@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/java-8-new/",
+    "test_type": "K",
+    "tags": ["java", "coding", "technical"],
+    "description": "A knowledge test for Java programming focusing on Java 8 features and practical coding tasks."
+  },
+  {
+    "name": "OPQ32r",
+    "url": "https://www.shl.com/solutions/products/product-catalog/opq32r/",
+    "test_type": "P",
+    "tags": ["personality", "behaviour", "occupational"],
+    "description": "Occupational Personality Questionnaire (OPQ) measuring behavioural tendencies at work."
+  },
+  {
+    "name": "GSA (General Skills Assessment)",
+    "url": "https://www.shl.com/solutions/products/product-catalog/gsa/",
+    "test_type": "S",
+    "tags": ["skills", "cognitive", "ability"],
+    "description": "General Skills Assessment measuring core skills such as reasoning and problem solving."
+  },
+  {
+    "name": "Verbal Reasoning",
+    "url": "https://www.shl.com/solutions/products/product-catalog/verbal-reasoning/",
+    "test_type": "C",
+    "tags": ["verbal", "reasoning", "cognitive"],
+    "description": "Assesses comprehension and verbal reasoning abilities."
+  }
+]
